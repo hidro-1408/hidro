@@ -36,7 +36,6 @@ void avg(int arr[], int n)
     }
      if (count == 0)
         {
-            cout<<"\nkhong co phan tu le!";
             cout<<"\ntrung binh cong cac phan tu le: 0";
         } 
         else
